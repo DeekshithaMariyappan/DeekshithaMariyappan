@@ -1,32 +1,21 @@
 <h1 align="center">Hi 👋, I'm Deekshitha M</h1>
 
 <h3 align="center">
-Aspiring Engineer | MERN Stack Developer | ML & Cloud Enthusiast
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Aspiring+Engineer;MERN+Stack+Developer;ML+%26+Cloud+Enthusiast;Building+Scalable+Web+Apps+🚀" />
 </h3>
 
-<p align="center">
-Focused on building secure, scalable, and real-world web applications 🚀
-</p>
 
----
-
-### 👩‍💻 About Me
-- 🎓 Pre-final year Computer Science student  
-- 💻 Strong in MERN Stack (React, Node.js, MongoDB)  
-- ☁️ Hands-on with AWS & Cloud-based deployment    
-- 📈 Actively seeking **Software Development Internships / SDE Roles**
-
----
-
-### 🚀 Key Project
+### 🚀 Key Projects
 
 
 #### 🧾 SmartOD – Digital OD Management System
-- Automated OD request workflow system  
-- Students submit requests → Faculty & HOD approval system  
-- Focused on **process automation and usability**
 
----
+A centralized digital platform designed to automate the On-Duty (OD) request workflow in academic institutions. It enables students to seamlessly submit OD requests, which are then reviewed and approved by faculty and the Head of Department through a structured approval system. The solution focuses on improving efficiency, reducing manual paperwork, and enhancing overall usability.
+
+#### 🧾 TRACE – Visual Habit Tracker
+
+A visual habit tracking application designed to help users build consistency through interactive dashboards, enabling real-time habit monitoring, streak analysis, and pattern visualization while eliminating manual tracking methods.
+
 
 ### 🛠️ Tech Stack
 <p align="center">
@@ -36,7 +25,10 @@ Focused on building secure, scalable, and real-world web applications 🚀
   <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="48" alt="scikit-learn logo"/>
 </p>
 
----
+### 🧠 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/DeekshithaMariyappan?theme=dark&font=baloo&ext=contest" />
+</p>
 
 ### 📊 GitHub Stats
 <p align="center">
@@ -44,14 +36,12 @@ Focused on building secure, scalable, and real-world web applications 🚀
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deekshithamariyappan&layout=compact&theme=tokyonight" />
 </p>
 
----
 
 ### 🔥 Streak Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=deekshithamariyappan&theme=tokyonight" />
 </p>
 
----
 
 ### 🌐 Connect with Me
 <p align="center">
@@ -63,7 +53,5 @@ Focused on building secure, scalable, and real-world web applications 🚀
   </a>
 </p>
 
----
 
-### 🎯 Career Goal
-> To build impactful software solutions by combining **full-stack development, cloud.**
+
