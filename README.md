@@ -30,11 +30,6 @@ A visual habit tracking application designed to help users build consistency thr
   <img src="https://leetcard.jacoblin.cool/DeekshithaMariyappan?theme=dark&font=baloo&ext=contest" />
 </p>
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deekshithamariyappan&show_icons=true&theme=tokyonight" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deekshithamariyappan&layout=compact&theme=tokyonight" />
-</p>
 
 
 ### 🔥 Streak Stats
