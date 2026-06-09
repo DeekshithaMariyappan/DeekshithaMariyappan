@@ -27,7 +27,7 @@ A visual habit tracking application designed to help users build consistency thr
 
 ### 🧠 LeetCode Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/DeekshithaMariyappan?theme=dark&font=baloo&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/DeekshithaMariyappan?theme=dark&font=baloo&ext=contest&v=1" />
 </p>
 
 
